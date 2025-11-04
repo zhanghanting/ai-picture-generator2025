@@ -1,0 +1,503 @@
+{
+  "template": "shipany-template-one",
+  "theme": "light",
+  "header": {
+    "brand": {
+      "title": "AI Image Generator",
+      "logo": {
+        "src": "/logo.png",
+        "alt": "AI Image Generator"
+      },
+      "url": "/"
+    },
+    "nav": {
+      "items": [
+        {
+          "title": "Features",
+          "url": "/#feature",
+          "icon": "RiSparkling2Line"
+        },
+        {
+          "title": "Pricing",
+          "url": "/pricing",
+          "icon": "RiMoneyDollarCircleLine"
+        },
+        {
+          "title": "Gallery",
+          "url": "/showcase",
+          "icon": "RiGalleryLine"
+        },
+        {
+          "title": "Docs",
+          "url": "/docs",
+          "icon": "RiBookOpenLine"
+        }
+      ]
+    },
+    "buttons": [
+      {
+        "title": "Start Creating",
+        "url": "/pricing",
+        "target": "_self",
+        "variant": "link",
+        "icon": "RiArrowRightUpLine"
+      }
+    ],
+    "show_sign": true,
+    "show_theme": true,
+    "show_locale": true
+  },
+  "hero": {
+    "title": "Transform Your Ideas into Stunning AI Images",
+    "highlight_text": "AI Images",
+    "description": "Professional AI image generator powered by GPT-4o.<br/>Create stunning artwork from text or transform your photos into masterpieces.",
+    "announcement": {
+      "label": "NEW",
+      "title": "🎨 Batch Generation Now Available",
+      "url": "/pricing"
+    },
+    "tip": "🎁 Free trial • No credit card required",
+    "buttons": [
+      {
+        "title": "Start Creating",
+        "icon": "RiFlashlightFill",
+        "url": "/pricing",
+        "target": "_self",
+        "variant": "default"
+      },
+      {
+        "title": "View Gallery",
+        "icon": "RiGalleryLine",
+        "url": "/showcase",
+        "target": "_self",
+        "variant": "outline"
+      }
+    ],
+    "show_happy_users": true,
+    "show_badge": false
+  },
+  "branding": {
+    "title": "Trusted by thousands of creators worldwide",
+    "items": [
+      {
+        "title": "Next.js",
+        "image": {
+          "src": "/imgs/logos/nextjs.svg",
+          "alt": "Next.js"
+        }
+      },
+      {
+        "title": "React",
+        "image": {
+          "src": "/imgs/logos/react.svg",
+          "alt": "React"
+        }
+      },
+      {
+        "title": "TailwindCSS",
+        "image": {
+          "src": "/imgs/logos/tailwindcss.svg",
+          "alt": "TailwindCSS"
+        }
+      },
+      {
+        "title": "Shadcn/UI",
+        "image": {
+          "src": "/imgs/logos/shadcn.svg",
+          "alt": "Shadcn/UI"
+        }
+      },
+      {
+        "title": "Vercel",
+        "image": {
+          "src": "/imgs/logos/vercel.svg",
+          "alt": "Vercel"
+        }
+      }
+    ]
+  },
+  "introduce": {
+    "name": "introduce",
+    "title": "Professional AI Image Generation Platform",
+    "label": "About",
+    "description": "Transform your text and photos into stunning artwork using advanced AI models. Perfect for creators, designers, and enthusiasts.",
+    "image": {
+      "src": "/imgs/features/1.png"
+    },
+    "items": [
+      {
+        "title": "Text to Image",
+        "description": "Generate unique images from detailed text descriptions. Bring your imagination to life.",
+        "icon": "RiImageAddLine"
+      },
+      {
+        "title": "Image to Image",
+        "description": "Transform existing photos into different artistic styles. Upload and reimagine your pictures.",
+        "icon": "RiImageEditLine"
+      },
+      {
+        "title": "Batch Generation",
+        "description": "Create multiple variations at once. Save time with our efficient batch processing.",
+        "icon": "RiGalleryLine"
+      }
+    ]
+  },
+  "benefit": {
+    "name": "benefit",
+    "title": "Why Choose Our AI Image Generator",
+    "label": "Benefits",
+    "description": "Experience the power of cutting-edge AI technology with an intuitive interface designed for creators.",
+    "items": [
+      {
+        "title": "High-Quality Results",
+        "description": "Generate stunning, high-resolution images with exceptional detail and artistic quality using GPT-4o vision.",
+        "icon": "RiImageLine",
+        "image": {
+          "src": "/imgs/features/2.png"
+        }
+      },
+      {
+        "title": "Lightning Fast",
+        "description": "Get your AI-generated images in seconds. No more waiting hours for renders - create at the speed of thought.",
+        "icon": "RiFlashlightLine",
+        "image": {
+          "src": "/imgs/features/3.png"
+        }
+      },
+      {
+        "title": "Easy to Use",
+        "description": "Simple interface that anyone can master. Just describe what you want, and watch the magic happen.",
+        "icon": "RiMagicLine",
+        "image": {
+          "src": "/imgs/features/4.png"
+        }
+      }
+    ]
+  },
+  "usage": {
+    "name": "usage",
+    "title": "How to Create AI Images",
+    "description": "Start generating stunning images in just a few simple steps:",
+    "image": {
+      "src": "/imgs/features/1.png"
+    },
+    "image_position": "left",
+    "text_align": "center",
+    "items": [
+      {
+        "title": "Sign Up for Free",
+        "description": "Create your account in seconds. No credit card required to start your free trial.",
+        "image": {
+          "src": "/imgs/features/5.png"
+        }
+      },
+      {
+        "title": "Describe Your Vision",
+        "description": "Type what you want to create or upload a reference image. Be as detailed or simple as you like.",
+        "image": {
+          "src": "/imgs/features/6.png"
+        }
+      },
+      {
+        "title": "Choose Your Style",
+        "description": "Select from anime, photorealistic, oil painting, watercolor, and many more artistic styles.",
+        "image": {
+          "src": "/imgs/features/7.png"
+        }
+      },
+      {
+        "title": "Generate & Download",
+        "description": "Click generate and watch your vision come to life. Download in high resolution for any use.",
+        "image": {
+          "src": "/imgs/features/8.png"
+        }
+      }
+    ]
+  },
+  "feature": {
+    "name": "feature",
+    "title": "Powerful AI Image Generation Features",
+    "description": "Everything you need to bring your creative visions to life with AI.",
+    "items": [
+      {
+        "title": "Multiple Art Styles",
+        "description": "Choose from anime, realistic, 3D render, oil painting, watercolor, and dozens more styles.",
+        "icon": "RiPaletteLine"
+      },
+      {
+        "title": "High Resolution Output",
+        "description": "Generate images up to 4K resolution. Perfect for printing, presentations, and professional use.",
+        "icon": "RiHdLine"
+      },
+      {
+        "title": "Advanced Prompting",
+        "description": "Fine-tune every detail with advanced parameters. Control style, lighting, composition, and more.",
+        "icon": "RiSettings3Line"
+      },
+      {
+        "title": "Batch Processing",
+        "description": "Generate multiple variations at once. Create entire galleries in minutes, not hours.",
+        "icon": "RiGalleryLine"
+      },
+      {
+        "title": "Commercial License",
+        "description": "Full commercial rights to all images you create. Use them in any project without restrictions.",
+        "icon": "RiCopyrightLine"
+      },
+      {
+        "title": "API Access",
+        "description": "Integrate our AI image generation into your own applications with our developer-friendly API.",
+        "icon": "RiCodeSSlashLine"
+      }
+    ]
+  },
+  "stats": {
+    "name": "stats",
+    "label": "Stats",
+    "title": "Loved by Creators Worldwide",
+    "description": "Join thousands of artists, designers, and creators",
+    "icon": "FaRegHeart",
+    "items": [
+      {
+        "title": "Images Generated",
+        "label": "10M+",
+        "description": "Total Creations"
+      },
+      {
+        "title": "Active Users",
+        "label": "50K+",
+        "description": "Creators"
+      },
+      {
+        "title": "Average Rating",
+        "label": "4.9",
+        "description": "Out of 5 Stars"
+      }
+    ]
+  },
+  "testimonial": {
+    "name": "testimonial",
+    "label": "Testimonial",
+    "title": "What Creators Say About Us",
+    "description": "Hear from artists, designers, and creators who bring their visions to life with AI.",
+    "icon": "GoThumbsup",
+    "items": [
+      {
+        "title": "Sarah Martinez",
+        "label": "Digital Artist",
+        "description": "This AI image generator is incredible! The quality is amazing and it's so fast. I can now create concept art in minutes instead of hours. Game changer for my workflow!",
+        "image": {
+          "src": "/imgs/users/1.png"
+        }
+      },
+      {
+        "title": "Alex Thompson",
+        "label": "Graphic Designer",
+        "description": "I use this for client presentations and mood boards. The variety of styles is impressive, and the high resolution output means I can use these images professionally.",
+        "image": {
+          "src": "/imgs/users/2.png"
+        }
+      },
+      {
+        "title": "Emma Chen",
+        "label": "Content Creator",
+        "description": "As a YouTuber, I need unique thumbnails and visuals constantly. This tool saves me so much time and money. The results look professional every time!",
+        "image": {
+          "src": "/imgs/users/3.png"
+        }
+      },
+      {
+        "title": "Michael Rodriguez",
+        "label": "Marketing Manager",
+        "description": "We generate all our social media visuals with this now. It's cost-effective, fast, and the images always match our brand aesthetic. Highly recommend!",
+        "image": {
+          "src": "/imgs/users/4.png"
+        }
+      },
+      {
+        "title": "Lisa Wang",
+        "label": "Indie Game Developer",
+        "description": "Perfect for prototyping game assets and concept art. The anime and 3D render styles are particularly impressive. Love the batch generation feature!",
+        "image": {
+          "src": "/imgs/users/5.png"
+        }
+      },
+      {
+        "title": "James Brown",
+        "label": "Photography Enthusiast",
+        "description": "The image-to-image feature is mind-blowing. I can transform my photos into different artistic styles. It's like having a whole art studio at my fingertips.",
+        "image": {
+          "src": "/imgs/users/6.png"
+        }
+      }
+    ]
+  },
+  "faq": {
+    "name": "faq",
+    "label": "FAQ",
+    "title": "Frequently Asked Questions",
+    "description": "Have another question? Contact us on Discord or by email.",
+    "items": [
+      {
+        "title": "What is an AI image generator and how does it work?",
+        "description": "An AI image generator uses advanced machine learning models (like GPT-4o) to create images from text descriptions. Simply describe what you want to see, and the AI interprets your words to generate a unique image matching your vision."
+      },
+      {
+        "title": "Can I use the generated images commercially?",
+        "description": "Yes! All images you generate have full commercial usage rights. You can use them in your projects, products, marketing materials, or anywhere else without restrictions."
+      },
+      {
+        "title": "What image styles are available?",
+        "description": "We support dozens of styles including anime, photorealistic, 3D render, oil painting, watercolor, sketch, pixel art, and many more. You can also mix styles or create custom variations to match your exact needs."
+      },
+      {
+        "title": "How long does it take to generate an image?",
+        "description": "Most images are generated in 5-15 seconds depending on complexity and resolution. Batch generations are processed in parallel, so creating multiple images doesn't take significantly longer."
+      },
+      {
+        "title": "What image resolution can I get?",
+        "description": "You can generate images up to 4K resolution (4096x4096 pixels), perfect for printing, high-quality displays, and professional use. Standard generations start at 1024x1024 pixels."
+      },
+      {
+        "title": "Do I need design skills to use this?",
+        "description": "Not at all! Our AI is designed to be intuitive for everyone. Just describe what you want in plain English, and the AI handles the rest. The more detailed your description, the better the results, but you can start simple."
+      }
+    ]
+  },
+  "cta": {
+    "name": "cta",
+    "title": "Start Creating Stunning AI Images Today",
+    "description": "Join thousands of creators bringing their visions to life with AI.",
+    "buttons": [
+      {
+        "title": "Try for Free",
+        "url": "/pricing",
+        "target": "_self",
+        "icon": "GoArrowUpRight"
+      },
+      {
+        "title": "View Gallery",
+        "url": "/showcase",
+        "target": "_self",
+        "variant": "outline"
+      }
+    ]
+  },
+  "footer": {
+    "name": "footer",
+    "brand": {
+      "title": "AI Image Generator",
+      "description": "Professional AI image generator powered by GPT-4o. Transform your ideas into stunning artwork with advanced AI technology.",
+      "logo": {
+        "src": "/logo.png",
+        "alt": "AI Image Generator"
+      },
+      "url": "/"
+    },
+    "copyright": "© 2025 • ShipAny All rights reserved.",
+    "nav": {
+      "items": [
+        {
+          "title": "About",
+          "children": [
+            {
+              "title": "Features",
+              "url": "/#feature",
+              "target": "_self"
+            },
+            {
+              "title": "Showcases",
+              "url": "/#showcase",
+              "target": "_self"
+            },
+            {
+              "title": "Pricing",
+              "url": "/#pricing",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "title": "Resources",
+          "children": [
+            {
+              "title": "Documents",
+              "url": "https://docs.shipany.ai",
+              "target": "_blank"
+            },
+            {
+              "title": "Components",
+              "url": "https://shipany.ai/components",
+              "target": "_blank"
+            },
+            {
+              "title": "Templates",
+              "url": "https://shipany.ai/templates",
+              "target": "_blank"
+            }
+          ]
+        },
+        {
+          "title": "Friends",
+          "children": [
+            {
+              "title": "ThinkAny",
+              "url": "https://thinkany.ai",
+              "target": "_blank"
+            },
+            {
+              "title": "HeyBeauty",
+              "url": "https://heybeauty.ai",
+              "target": "_blank"
+            },
+            {
+              "title": "Pagen",
+              "url": "https://pagen.so",
+              "target": "_blank"
+            }
+          ]
+        }
+      ]
+    },
+    "social": {
+      "items": [
+        {
+          "title": "X",
+          "icon": "RiTwitterXFill",
+          "url": "https://x.com/shipanyai",
+          "target": "_blank"
+        },
+        {
+          "title": "Github",
+          "icon": "RiGithubFill",
+          "url": "https://github.com/shipanyai",
+          "target": "_blank"
+        },
+        {
+          "title": "Discord",
+          "icon": "RiDiscordFill",
+          "url": "https://discord.gg/HQNnrzjZQS",
+          "target": "_blank"
+        },
+        {
+          "title": "Email",
+          "icon": "RiMailLine",
+          "url": "mailto:support@shipany.ai",
+          "target": "_self"
+        }
+      ]
+    },
+    "agreement": {
+      "items": [
+        {
+          "title": "Privacy Policy",
+          "url": "/privacy-policy"
+        },
+        {
+          "title": "Terms of Service",
+          "url": "/terms-of-service"
+        }
+      ]
+    }
+  }
+}
