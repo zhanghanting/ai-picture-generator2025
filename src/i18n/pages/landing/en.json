@@ -48,15 +48,15 @@
     "show_locale": true
   },
   "hero": {
-    "title": "Transform Your Ideas into Stunning AI Images",
-    "highlight_text": "AI Images",
-    "description": "Professional AI image generator powered by GPT-4o.<br/>Create stunning artwork from text or transform your photos into masterpieces.",
+    "title": "AI Image Generator - Transform Ideas into Stunning AI Images",
+    "highlight_text": "AI Image Generator",
+    "description": "Professional AI image generator powered by GPT-4o.<br/>Generate AI images from text instantly. Create stunning AI artwork and transform your photos into masterpieces with our AI image generator.",
     "announcement": {
       "label": "NEW",
-      "title": "🎨 Batch Generation Now Available",
+      "title": "🎨 AI Image Batch Generation Now Available",
       "url": "/pricing"
     },
-    "tip": "🎁 Free trial • No credit card required",
+    "tip": "🎁 Free AI image generator trial • No credit card required",
     "buttons": [
       {
         "title": "Start Creating",
@@ -118,55 +118,55 @@
   },
   "introduce": {
     "name": "introduce",
-    "title": "Professional AI Image Generation Platform",
-    "label": "About",
-    "description": "Transform your text and photos into stunning artwork using advanced AI models. Perfect for creators, designers, and enthusiasts.",
+    "title": "Professional AI Image Generator - Create AI Images from Text",
+    "label": "About Our AI Image Generator",
+    "description": "Transform your text and photos into stunning AI artwork using our advanced AI image generator. Perfect for creators, designers, and enthusiasts who want to generate AI images instantly.",
     "image": {
       "src": "/imgs/features/1.png"
     },
     "items": [
       {
-        "title": "Text to Image",
-        "description": "Generate unique images from detailed text descriptions. Bring your imagination to life.",
+        "title": "AI Text to Image Generator",
+        "description": "Generate unique AI images from detailed text descriptions. Our AI image generator brings your imagination to life with stunning results.",
         "icon": "RiImageAddLine"
       },
       {
-        "title": "Image to Image",
-        "description": "Transform existing photos into different artistic styles. Upload and reimagine your pictures.",
+        "title": "AI Image to Image Generator",
+        "description": "Transform existing photos into different artistic styles with our AI image generator. Upload and reimagine your pictures as AI-generated artwork.",
         "icon": "RiImageEditLine"
       },
       {
-        "title": "Batch Generation",
-        "description": "Create multiple variations at once. Save time with our efficient batch processing.",
+        "title": "AI Batch Image Generation",
+        "description": "Create multiple AI images at once. Save time generating AI artwork with our efficient batch AI image generator.",
         "icon": "RiGalleryLine"
       }
     ]
   },
   "benefit": {
     "name": "benefit",
-    "title": "Why Choose Our AI Image Generator",
-    "label": "Benefits",
-    "description": "Experience the power of cutting-edge AI technology with an intuitive interface designed for creators.",
+    "title": "Why Choose Our AI Image Generator for Creating AI Images",
+    "label": "AI Image Generator Benefits",
+    "description": "Experience the power of our cutting-edge AI image generator with an intuitive interface designed for creators who need to generate AI images quickly.",
     "items": [
       {
-        "title": "High-Quality Results",
-        "description": "Generate stunning, high-resolution images with exceptional detail and artistic quality using GPT-4o vision.",
+        "title": "High-Quality AI Generated Images",
+        "description": "Generate stunning, high-resolution AI images with exceptional detail and artistic quality. Our AI image generator uses GPT-4o to create professional AI artwork.",
         "icon": "RiImageLine",
         "image": {
           "src": "/imgs/features/2.png"
         }
       },
       {
-        "title": "Lightning Fast",
-        "description": "Get your AI-generated images in seconds. No more waiting hours for renders - create at the speed of thought.",
+        "title": "Fast AI Image Generation",
+        "description": "Get your AI-generated images in seconds with our fast AI image generator. No more waiting hours - generate AI images at the speed of thought.",
         "icon": "RiFlashlightLine",
         "image": {
           "src": "/imgs/features/3.png"
         }
       },
       {
-        "title": "Easy to Use",
-        "description": "Simple interface that anyone can master. Just describe what you want, and watch the magic happen.",
+        "title": "Easy AI Image Generator",
+        "description": "Simple AI image generator interface that anyone can master. Just describe what you want, and our AI generates images instantly.",
         "icon": "RiMagicLine",
         "image": {
           "src": "/imgs/features/4.png"
@@ -176,8 +176,8 @@
   },
   "usage": {
     "name": "usage",
-    "title": "How to Create AI Images",
-    "description": "Start generating stunning images in just a few simple steps:",
+    "title": "How to Use Our AI Image Generator to Create AI Images",
+    "description": "Start generating stunning AI images with our AI image generator in just a few simple steps:",
     "image": {
       "src": "/imgs/features/1.png"
     },
@@ -185,29 +185,29 @@
     "text_align": "center",
     "items": [
       {
-        "title": "Sign Up for Free",
-        "description": "Create your account in seconds. No credit card required to start your free trial.",
+        "title": "Sign Up for Free AI Image Generator",
+        "description": "Create your AI image generator account in seconds. No credit card required to start generating AI images with our free trial.",
         "image": {
           "src": "/imgs/features/5.png"
         }
       },
       {
-        "title": "Describe Your Vision",
-        "description": "Type what you want to create or upload a reference image. Be as detailed or simple as you like.",
+        "title": "Describe Your AI Image Vision",
+        "description": "Type what AI images you want to create or upload a reference image. Our AI image generator works with detailed or simple descriptions.",
         "image": {
           "src": "/imgs/features/6.png"
         }
       },
       {
-        "title": "Choose Your Style",
-        "description": "Select from anime, photorealistic, oil painting, watercolor, and many more artistic styles.",
+        "title": "Choose Your AI Image Style",
+        "description": "Select from anime, photorealistic, oil painting, watercolor, and many more AI image styles with our versatile AI image generator.",
         "image": {
           "src": "/imgs/features/7.png"
         }
       },
       {
-        "title": "Generate & Download",
-        "description": "Click generate and watch your vision come to life. Download in high resolution for any use.",
+        "title": "Generate AI Images & Download",
+        "description": "Click generate and watch our AI image generator bring your vision to life. Download your AI-generated images in high resolution for any use.",
         "image": {
           "src": "/imgs/features/8.png"
         }
@@ -216,37 +216,37 @@
   },
   "feature": {
     "name": "feature",
-    "title": "Powerful AI Image Generation Features",
-    "description": "Everything you need to bring your creative visions to life with AI.",
+    "title": "Powerful AI Image Generator Features for Creating AI Images",
+    "description": "Everything you need to generate AI images and bring your creative visions to life with our AI image generator.",
     "items": [
       {
-        "title": "Multiple Art Styles",
-        "description": "Choose from anime, realistic, 3D render, oil painting, watercolor, and dozens more styles.",
+        "title": "Multiple AI Image Art Styles",
+        "description": "Our AI image generator offers anime, realistic, 3D render, oil painting, watercolor, and dozens more AI image styles.",
         "icon": "RiPaletteLine"
       },
       {
-        "title": "High Resolution Output",
-        "description": "Generate images up to 4K resolution. Perfect for printing, presentations, and professional use.",
+        "title": "High Resolution AI Images",
+        "description": "Generate AI images up to 4K resolution with our AI image generator. Perfect for printing, presentations, and professional use.",
         "icon": "RiHdLine"
       },
       {
-        "title": "Advanced Prompting",
-        "description": "Fine-tune every detail with advanced parameters. Control style, lighting, composition, and more.",
+        "title": "Advanced AI Image Prompting",
+        "description": "Fine-tune every detail of your AI-generated images with advanced parameters. Our AI image generator lets you control style, lighting, composition, and more.",
         "icon": "RiSettings3Line"
       },
       {
-        "title": "Batch Processing",
-        "description": "Generate multiple variations at once. Create entire galleries in minutes, not hours.",
+        "title": "AI Image Batch Processing",
+        "description": "Generate multiple AI images at once with our batch AI image generator. Create entire galleries of AI-generated images in minutes, not hours.",
         "icon": "RiGalleryLine"
       },
       {
-        "title": "Commercial License",
-        "description": "Full commercial rights to all images you create. Use them in any project without restrictions.",
+        "title": "Commercial License for AI Images",
+        "description": "Full commercial rights to all AI images you generate. Use your AI-generated images in any project without restrictions.",
         "icon": "RiCopyrightLine"
       },
       {
-        "title": "API Access",
-        "description": "Integrate our AI image generation into your own applications with our developer-friendly API.",
+        "title": "AI Image Generator API Access",
+        "description": "Integrate our AI image generator into your own applications with our developer-friendly AI image generation API.",
         "icon": "RiCodeSSlashLine"
       }
     ]
@@ -277,15 +277,15 @@
   },
   "testimonial": {
     "name": "testimonial",
-    "label": "Testimonial",
-    "title": "What Creators Say About Us",
-    "description": "Hear from artists, designers, and creators who bring their visions to life with AI.",
+    "label": "AI Image Generator Testimonials",
+    "title": "What Creators Say About Our AI Image Generator",
+    "description": "Hear from artists, designers, and creators who generate AI images and bring their visions to life with our AI image generator.",
     "icon": "GoThumbsup",
     "items": [
       {
         "title": "Sarah Martinez",
         "label": "Digital Artist",
-        "description": "This AI image generator is incredible! The quality is amazing and it's so fast. I can now create concept art in minutes instead of hours. Game changer for my workflow!",
+        "description": "This AI image generator is incredible! The quality of AI images is amazing and it's so fast. I can now create AI-generated concept art in minutes instead of hours. This AI image generator is a game changer for my workflow!",
         "image": {
           "src": "/imgs/users/1.png"
         }
@@ -293,7 +293,7 @@
       {
         "title": "Alex Thompson",
         "label": "Graphic Designer",
-        "description": "I use this for client presentations and mood boards. The variety of styles is impressive, and the high resolution output means I can use these images professionally.",
+        "description": "I use this AI image generator for client presentations and mood boards. The variety of AI image styles is impressive, and the high resolution AI-generated images mean I can use them professionally.",
         "image": {
           "src": "/imgs/users/2.png"
         }
@@ -301,7 +301,7 @@
       {
         "title": "Emma Chen",
         "label": "Content Creator",
-        "description": "As a YouTuber, I need unique thumbnails and visuals constantly. This tool saves me so much time and money. The results look professional every time!",
+        "description": "As a YouTuber, I need unique thumbnails and visuals constantly. This AI image generator saves me so much time and money. The AI-generated images look professional every time!",
         "image": {
           "src": "/imgs/users/3.png"
         }
@@ -309,7 +309,7 @@
       {
         "title": "Michael Rodriguez",
         "label": "Marketing Manager",
-        "description": "We generate all our social media visuals with this now. It's cost-effective, fast, and the images always match our brand aesthetic. Highly recommend!",
+        "description": "We generate all our social media visuals with this AI image generator now. It's cost-effective, fast, and the AI-generated images always match our brand aesthetic. Highly recommend this AI image generator!",
         "image": {
           "src": "/imgs/users/4.png"
         }
@@ -317,7 +317,7 @@
       {
         "title": "Lisa Wang",
         "label": "Indie Game Developer",
-        "description": "Perfect for prototyping game assets and concept art. The anime and 3D render styles are particularly impressive. Love the batch generation feature!",
+        "description": "Perfect AI image generator for prototyping game assets and concept art. The anime and 3D render AI image styles are particularly impressive. Love the AI batch image generation feature!",
         "image": {
           "src": "/imgs/users/5.png"
         }
@@ -325,7 +325,7 @@
       {
         "title": "James Brown",
         "label": "Photography Enthusiast",
-        "description": "The image-to-image feature is mind-blowing. I can transform my photos into different artistic styles. It's like having a whole art studio at my fingertips.",
+        "description": "The AI image-to-image generator feature is mind-blowing. I can transform my photos into different artistic AI image styles. This AI image generator is like having a whole art studio at my fingertips.",
         "image": {
           "src": "/imgs/users/6.png"
         }
@@ -334,49 +334,49 @@
   },
   "faq": {
     "name": "faq",
-    "label": "FAQ",
-    "title": "Frequently Asked Questions",
-    "description": "Have another question? Contact us on Discord or by email.",
+    "label": "AI Image Generator FAQ",
+    "title": "Frequently Asked Questions About Our AI Image Generator",
+    "description": "Have questions about our AI image generator? Contact us on Discord or by email.",
     "items": [
       {
         "title": "What is an AI image generator and how does it work?",
-        "description": "An AI image generator uses advanced machine learning models (like GPT-4o) to create images from text descriptions. Simply describe what you want to see, and the AI interprets your words to generate a unique image matching your vision."
+        "description": "An AI image generator uses advanced machine learning models (like GPT-4o) to create AI images from text descriptions. Our AI image generator interprets your words to generate unique AI-generated images matching your vision. Simply describe what you want, and our AI image generator creates stunning AI images instantly."
       },
       {
-        "title": "Can I use the generated images commercially?",
-        "description": "Yes! All images you generate have full commercial usage rights. You can use them in your projects, products, marketing materials, or anywhere else without restrictions."
+        "title": "Can I use the AI-generated images commercially?",
+        "description": "Yes! All AI images you generate with our AI image generator have full commercial usage rights. You can use your AI-generated images in projects, products, marketing materials, or anywhere else without restrictions."
       },
       {
-        "title": "What image styles are available?",
-        "description": "We support dozens of styles including anime, photorealistic, 3D render, oil painting, watercolor, sketch, pixel art, and many more. You can also mix styles or create custom variations to match your exact needs."
+        "title": "What AI image styles are available in your AI image generator?",
+        "description": "Our AI image generator supports dozens of AI image styles including anime, photorealistic, 3D render, oil painting, watercolor, sketch, pixel art, and many more. You can also mix AI image styles or create custom AI-generated image variations to match your exact needs."
       },
       {
-        "title": "How long does it take to generate an image?",
-        "description": "Most images are generated in 5-15 seconds depending on complexity and resolution. Batch generations are processed in parallel, so creating multiple images doesn't take significantly longer."
+        "title": "How long does it take to generate AI images?",
+        "description": "Most AI images are generated in 5-15 seconds depending on complexity and resolution. Our AI image generator processes batch AI image generations in parallel, so creating multiple AI images doesn't take significantly longer."
       },
       {
-        "title": "What image resolution can I get?",
-        "description": "You can generate images up to 4K resolution (4096x4096 pixels), perfect for printing, high-quality displays, and professional use. Standard generations start at 1024x1024 pixels."
+        "title": "What AI image resolution can I get from your AI image generator?",
+        "description": "You can generate AI images up to 4K resolution (4096x4096 pixels) with our AI image generator, perfect for printing, high-quality displays, and professional use. Standard AI image generations start at 1024x1024 pixels."
       },
       {
-        "title": "Do I need design skills to use this?",
-        "description": "Not at all! Our AI is designed to be intuitive for everyone. Just describe what you want in plain English, and the AI handles the rest. The more detailed your description, the better the results, but you can start simple."
+        "title": "Do I need design skills to use this AI image generator?",
+        "description": "Not at all! Our AI image generator is designed to be intuitive for everyone. Just describe what AI images you want in plain English, and our AI image generator handles the rest. The more detailed your description, the better the AI-generated images, but you can start simple with our AI image generator."
       }
     ]
   },
   "cta": {
     "name": "cta",
-    "title": "Start Creating Stunning AI Images Today",
-    "description": "Join thousands of creators bringing their visions to life with AI.",
+    "title": "Start Creating Stunning AI Images Today with Our AI Image Generator",
+    "description": "Join thousands of creators generating AI images and bringing their visions to life with our AI image generator.",
     "buttons": [
       {
-        "title": "Try for Free",
+        "title": "Try AI Image Generator Free",
         "url": "/pricing",
         "target": "_self",
         "icon": "GoArrowUpRight"
       },
       {
-        "title": "View Gallery",
+        "title": "View AI Image Gallery",
         "url": "/showcase",
         "target": "_self",
         "variant": "outline"
@@ -387,10 +387,10 @@
     "name": "footer",
     "brand": {
       "title": "AI Image Generator",
-      "description": "Professional AI image generator powered by GPT-4o. Transform your ideas into stunning artwork with advanced AI technology.",
+      "description": "Professional AI image generator powered by GPT-4o. Generate AI images from text instantly. Transform your ideas into stunning AI-generated artwork with our advanced AI image generator technology.",
       "logo": {
         "src": "/logo.png",
-        "alt": "AI Image Generator"
+        "alt": "AI Image Generator - Create AI Images"
       },
       "url": "/"
     },

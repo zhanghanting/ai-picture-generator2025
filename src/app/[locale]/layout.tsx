@@ -18,6 +18,7 @@ export async function generateMetadata({
   setRequestLocale(locale);
 
   const t = await getTranslations();
+  const webUrl = process.env.NEXT_PUBLIC_WEB_URL || "";
 
   return {
     title: {
@@ -26,6 +27,39 @@ export async function generateMetadata({
     },
     description: t("metadata.description") || "",
     keywords: t("metadata.keywords") || "",
+    openGraph: {
+      title: t("metadata.title") || "",
+      description: t("metadata.description") || "",
+      url: webUrl,
+      siteName: "AI Image Generator",
+      locale: locale,
+      type: "website",
+      images: [
+        {
+          url: `${webUrl}/og-image.png`,
+          width: 1200,
+          height: 630,
+          alt: "AI Image Generator - Create AI Images from Text",
+        },
+      ],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: t("metadata.title") || "",
+      description: t("metadata.description") || "",
+      images: [`${webUrl}/og-image.png`],
+    },
+    robots: {
+      index: true,
+      follow: true,
+      googleBot: {
+        index: true,
+        follow: true,
+        "max-video-preview": -1,
+        "max-image-preview": "large",
+        "max-snippet": -1,
+      },
+    },
   };
 }
 
